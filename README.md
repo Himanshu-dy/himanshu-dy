@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Cloud Computing.
-- 🌱 I’m currently learning DevOps.
-- 💬 Ask me about Cloud Technology.
-- 📫 How to reach me: 
+- 🔭 I'm a Python Programmer
+- 🌱 I’m currently learning DBMS.
+- 💬 Ask me about Pythin & Data Structure.
+- 📫 How to reach me: www.linkedin.com/in/himanshu-dubey-a483701a5
 - 😄 Pronouns: He/Him
 
